@@ -1,6 +1,5 @@
 # ============================================================
-#  STEP 1: Load & Explore the Data
-#  Telco Customer Churn Project
+# Load & Explore the Data
 # ============================================================
 
 import pandas as pd
